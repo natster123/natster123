@@ -3,22 +3,21 @@
     <head>
         <!-- <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
         <script src="https://cdn.syncfusion.com/ej2/dist/ej2.min.js" type="text/javascript"></script> -->
-        <script src="https://d3js.org/d3.v4.js"></script>
-        <script src="http://d3js.org/topojson.v0.min.js"></script>
-        <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-        <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
-        <script src= "https://d3js.org/d3-color.v1.min.js"></script> 
-        <script src= "https://d3js.org/d3-interpolate.v1.min.js"></script> 
+        <script src="https://d3js.org/d3.v7.js"></script>
         <link rel="stylesheet" type="text/css" href="task.css">
     </head>
     <body>
         <div id="Tasks">
-            <div class= "Project"> 
-                <script src="project_task.js"></script>
+            <div class= "Task1"> 
+                <script src="task1.js"></script>
                 <div id="stu_data"></div>
-                <input type="button" id="btnClck1" value="North America" onclick="NAonly();">
-                <input type="button" id="btnClck2" value="South America" onclick="SAonly();">
-                <input type="button" id="btnClck1" value="Both Continents" onclick="BothCon();">
+                <input type="button" id="btnClck1" value="Update" onclick="updateGraph();">
+                <input type="button" id="btnClck2" value="Return" onclick="displayOG();">
+            </div>
+
+            <div class= "Task2">
+                <script src="task2.js"></script>
+            </div>
         </div>
 
 
