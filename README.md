@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @natster123
+- 👋 Hi, I’m @Nate Surafel
 - 👀 I’m interested in software engineering and artificial intelligence. Hobbies include: working out, programming, investing, hiking, and cars.
-- 🌱 I’m currently learning computer science, in the honor's program set to graduate this year.
+- 🌱 I’m currently in computer science, in the honor's program set to graduate this year.
 - 📫 How to reach me: Email: sura1990@mylaurier.ca
 
 <!---
