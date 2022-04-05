@@ -1,0 +1,21 @@
+#Tasks {
+    position: absolute;
+    display: flex;
+}
+.Task1{
+  position: absolute;
+  left: 20px;
+  top: 470px;
+}
+.Task1{
+    position: absolute;
+    left: 20px;
+    top: 470px;
+  }
+  .Task2{
+    position: relative;
+    display: flex;
+    left: 700px;
+    top: 20px;
+
+  }
